@@ -1,6 +1,6 @@
 ---
 name: HOP-Parser
-version: 0.02_01
+version: 0.02_02
 author:
   - 'Curtis "Ovid" Poe <ovid@cpan.org>'
 abstract: '"Higher Order Perl" Parser'
