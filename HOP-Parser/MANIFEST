@@ -1,7 +1,8 @@
 Build.PL
 Changes
 MANIFEST
-META.yml # Will be created by "make dist"
+META.json # Will be created by "make distdir"
+META.yml  # Will be created by "make distdir"
 README
 lib/HOP/Parser.pm
 t/00-load.t
