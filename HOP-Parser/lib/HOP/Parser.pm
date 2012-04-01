@@ -46,11 +46,11 @@ HOP::Parser - "Higher Order Perl" Parser
 
 =head1 VERSION
 
-Version 0.02_02
+Version 0.02_03
 
 =cut
 
-our $VERSION = '0.02_02';
+our $VERSION = '0.02_03';
 
 =head1 SYNOPSIS
 
@@ -65,8 +65,11 @@ by Mark Jason Dominus.
 
 This module implements recursive-descent parsers by allowing programmers to
 build a bunch of smaller parsers to represent grammar elements and assemble
-them into a full parser. Pages 376 to 415 of the first edition of HOP should
-be enough to get you up to speed :)
+them into a full parser. Pages 376 to 415 of the first and second editions
+of HOP should be enough to get you up to speed :)
+
+The PDF for the second edition can be downloaded from MJD's site: 
+L<http://hop.perl.plover.com/book/pdf/HigherOrderPerl.pdf>.
 
 Please note that this module should be considered B<ALPHA> code.  While
 everything works fairly well, the documentation is incomplete and some of the
