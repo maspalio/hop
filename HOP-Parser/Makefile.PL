@@ -36,6 +36,7 @@ WriteMakefile1(
           'VERSION_FROM' => 'lib/HOP/Parser.pm',
           'PREREQ_PM' => {
                            'HOP::Stream' => '0.03',
+                           'HOP::Lexer' => '0.032',
                            'Sub::Uplevel' => 0,
                          }
         )

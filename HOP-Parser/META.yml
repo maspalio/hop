@@ -22,9 +22,10 @@ no_index:
     - t
     - inc
 requires:
+  HOP::Lexer: 0.032
   HOP::Stream: 0.03
   Sub::Uplevel: 0
 resources:
   homepage: http://hop.perl.plover.com/
   x_MailingList: http://hop.perl.plover.com/#mlist
-version: 0.02_03
+version: 0.02_04

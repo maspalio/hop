@@ -46,11 +46,11 @@ HOP::Parser - "Higher Order Perl" Parser
 
 =head1 VERSION
 
-Version 0.02_03
+Version 0.02_04
 
 =cut
 
-our $VERSION = '0.02_03';
+our $VERSION = '0.02_04';
 
 =head1 SYNOPSIS
 
