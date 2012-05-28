@@ -1,6 +1,6 @@
 Revision history for HOP-Parser
 
-0.03
+0.03    2012-05-28
       * Added the plus() parser.
       * Addd the lookahead() and neg_lookahead() parsers.
       * Fixed a backward compatibility issue introduced in 0.02 where iterator
